@@ -8,6 +8,6 @@
   ],
   "outputDirectory": "project/dist",
   "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+    { "src": "/(.*)", "dest": "/project/dist/index.html" }
   ]
 }
